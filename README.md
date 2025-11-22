@@ -25,7 +25,9 @@ A modern Flutter application for learning English vocabulary from A1 to C1 level
 
 ## 📥 Download
 
-[Download APK](assets/app-release.apk)
+## 📥 Download
+
+[Download APK](https://github.com/emrecan-nt/https://github.com/emrecan-nt/englishword.git/raw/main/assets/app-release.apk)
 
 ## 🛠️ Built With
 
